@@ -1,9 +1,9 @@
 
 　　<p align="center">![](https://komarev.com/ghpvc/?username=zekespinalfluid&label=💸&color=43443F)</p>
 
-<p align="center"> 
+<p align="center">
 <img src="IMG_7944.png">
-
+<p align="center">
 <p align="center"> 
 <tt><i> ^_^ </i></tt>
 <p align="center"> 
