@@ -1,8 +1,8 @@
 
-　　<p align="center">![](https://komarev.com/ghpvc/?username=zekespinalfluid&label=💸&color=FFE779)</p>
+　　<p align="center">![](https://komarev.com/ghpvc/?username=zekespinalfluid&label=💸&color=43443F)</p>
 
 <p align="center"> 
-<img src="IMG_7942-min.png">
+<img src="IMG_7944.png">
 
 <p align="center"> 
 <tt><i> ^_^ </i></tt>
